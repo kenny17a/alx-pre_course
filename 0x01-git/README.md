@@ -1,1 +1,1 @@
-My first readme
+echo "Alx is fun to be"
